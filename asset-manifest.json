@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Harvest-Ministries/static/css/main.175c2935.chunk.css",
+    "main.js": "/Harvest-Ministries/static/js/main.28564b44.chunk.js",
+    "main.js.map": "/Harvest-Ministries/static/js/main.28564b44.chunk.js.map",
+    "runtime-main.js": "/Harvest-Ministries/static/js/runtime-main.7fa09b01.js",
+    "runtime-main.js.map": "/Harvest-Ministries/static/js/runtime-main.7fa09b01.js.map",
+    "static/js/2.07fb77a9.chunk.js": "/Harvest-Ministries/static/js/2.07fb77a9.chunk.js",
+    "static/js/2.07fb77a9.chunk.js.map": "/Harvest-Ministries/static/js/2.07fb77a9.chunk.js.map",
+    "index.html": "/Harvest-Ministries/index.html",
+    "static/css/main.175c2935.chunk.css.map": "/Harvest-Ministries/static/css/main.175c2935.chunk.css.map",
+    "static/js/2.07fb77a9.chunk.js.LICENSE.txt": "/Harvest-Ministries/static/js/2.07fb77a9.chunk.js.LICENSE.txt",
+    "static/media/bg_img.d543b2ab.jpg": "/Harvest-Ministries/static/media/bg_img.d543b2ab.jpg",
+    "static/media/logo.1cb950cb.png": "/Harvest-Ministries/static/media/logo.1cb950cb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fa09b01.js",
+    "static/js/2.07fb77a9.chunk.js",
+    "static/css/main.175c2935.chunk.css",
+    "static/js/main.28564b44.chunk.js"
+  ]
+}
