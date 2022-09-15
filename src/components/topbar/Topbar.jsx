@@ -64,11 +64,15 @@ export default function TopBar() {
             </>
           }
            
-           
+           {user? 
+           <Link to="/settings">
+           <img className="topImg" src={logo} alt="" />
+         </Link>
+         :
+         <></>
+           }
           </ul>
-          <Link to="/settings">
-            <img className="topImg" src={logo} alt="" />
-          </Link>
+          
       </div>
     </div>
   );
